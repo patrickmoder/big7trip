@@ -10,7 +10,7 @@ stay tuned...
 
 # Nur noch so lange bis zum Big7 Trip...
 
-<p id="timer"></p>
+## <p id="timer"></p>
 
 <script>
   // Set the date of your event (example: March 25, 2025)
