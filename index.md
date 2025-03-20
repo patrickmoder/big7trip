@@ -8,8 +8,6 @@ Da sind wir wieder! Und (fast) vereint in einer der schönsten Destinationen auf
 
 stay tuned...
 
-
-
 # Nur noch so lange bis zum Big7 Trip...
 
 <p id="timer"></p>
@@ -41,3 +39,8 @@ stay tuned...
     }
   }, 1000);
 </script>
+
+
+Eine kleine Historie gefällig? [Hier](historie.md) geht es zu eindrucksvollen, lehrreichen, denkwürdigen und abstoßenden Impressionen der letzten gemeinsamen Jahre.
+
+Na, neugierig? Ihr wollt wirklich wissen, wo es hingeht? Vielleicht helfen euch die [Fakten](fakten.md) über unser zukünftiges Ziel ja weiter...
