@@ -10,7 +10,17 @@ stay tuned...
 
 # Nur noch so lange müssen wir uns gedulden...
 
-## <p id="timer"></p>
+<style>
+  #timer {
+    font-family: 'Arial', sans-serif;
+    font-size: 2em;
+    color: #ff5733;
+    font-weight: bold;
+    text-align: center;
+  }
+</style>
+
+<p id="timer"></p>
 
 <script>
   // Set the date of your event (example: March 25, 2025)
