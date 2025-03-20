@@ -10,7 +10,7 @@ stay tuned...
 
 
 
-# Countdown to Event
+# Nur noch so lange bis zum Big7 Trip...
 
 <p id="timer"></p>
 
