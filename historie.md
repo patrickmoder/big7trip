@@ -8,4 +8,8 @@
 
 # Athen 2024
 
+# ??? 2025
+
+![Big72025_Teaser](./big6_dalle.png)
+
 ## Bewertungen bisher:
