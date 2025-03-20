@@ -9,6 +9,7 @@ Da sind wir wieder! Und (fast) vereint in einer der schönsten Destinationen auf
 stay tuned...
 
 
+
 # Countdown to Event
 
 <p id="timer"></p>
@@ -36,7 +37,7 @@ stay tuned...
     // If the event has passed, display a message
     if (distance < 0) {
       clearInterval(timer);
-      document.getElementById("timer").innerHTML = "Big7 Trip 2025 läuft bereits!";
+      document.getElementById("timer").innerHTML = "Event has started!";
     }
   }, 1000);
 </script>
