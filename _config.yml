@@ -1,4 +1,4 @@
-theme: null #jekyll-theme-cayman
+theme: jekyll-theme-cayman
 markdown: kramdown
 plugins:
   - jekyll-feed
