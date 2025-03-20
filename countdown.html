@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Countdown Timer</title>
+</head>
+<body>
+  <h1>Countdown to Event</h1>
+  <p id="timer"></p>
+
+  <script>
+    // Set the date of your event (example: March 25, 2025)
+    var eventDate = new Date("April 25, 2025 10:00:00").getTime();
+
+    var timer = setInterval(function() {
+      // Get current time
+      var now = new Date().getTime();
+      
+      // Calculate the time remaining
+      var distance = eventDate - now;
+      
+      // Calculate days, hours, minutes, and seconds
+      var days = Math.floor(distance / (1000 * 60 * 60 * 24));
+      var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+      var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+      var seconds = Math.floor((distance % (1000 * 60)) / 1000);
+
+      // Display the result
+      document.getElementById("timer").innerHTML = days + "d " + hours + "h " + minutes + "m " + seconds + "s ";
+
+      // If the event has passed, display a message
+      if (distance < 0) {
+        clearInterval(timer);
+        document.getElementById("timer").innerHTML = "Event has started!";
+      }
+    }, 1000);
+  </script>
+</body>
+</html>
