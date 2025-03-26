@@ -10,3 +10,4 @@ Was unbedingt mit ins Gepäck muss:
 - Hausmittelchen gegen Aua im Kopf
 - Übt nochmal, einen Tischtennisball gezielt zu werfen -- könnte entscheidend sein
 - Klicker?
+- Wir reisen mit Handgepäck im Flieger, bitte achtet auf die Menge der Flüssigkeiten in euren Beauty-Sets. Und bitte keine Buschmesser einpacken, Domi!
