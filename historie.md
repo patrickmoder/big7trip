@@ -6,7 +6,7 @@
 
 Kater | Kolben | Karaköy
 :---: | :---: | :---:
-<img src="./ist_1.jpg" alt="ist_1" width=300px/> | <img src="./ist_2.jpg" alt="ist_2" width=300px/> | <img src="ist_3.jpg" alt="ist_3" width=300px/>
+<img src="./ist_1.JPG" alt="ist_1" width=300px/> | <img src="./ist_2.JPG" alt="ist_2" width=300px/> | <img src="ist_3.jpg" alt="ist_3" width=300px/>
 
 # Neapel 2023
 
