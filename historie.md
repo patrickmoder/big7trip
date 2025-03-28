@@ -2,6 +2,10 @@
 
 # Brüssel 2018
 
+Atomium | Fietsen | Auferstehung
+:---: | :---: | :---:
+<img src="./bru_1.JPG" alt="bru_1" width=300px/> | <img src="./bru_3.JPG" alt="bru_3" width=300px/> | <img src="bru_2.JPG" alt="bru_2" width=300px/>
+
 # Istanbul 2019
 
 Kater | Kolben | Karaköy
