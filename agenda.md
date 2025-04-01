@@ -5,7 +5,7 @@ Freitag
 - Ankunft 13 Uhr, Check in, Kolben besorgen
 - Spaziergang Vieux Port (alter Hafen)
 - ciel mit Ausblick
-- Bouillabaisse; bspw. le Miramar,  **Tetro (Vieux-Port)**, Livingston (pop-up, Vieux-Port)
+- Bouillabaisse; **Tetro (Vieux-Port)**, Livingston (pop-up, Vieux-Port)
 - Bar Hopping in Le Panier
 - Tanzen & Geiern im Club (R2 Rooftop, **Baby Club**)
 
@@ -38,4 +38,6 @@ Notizen
 - Baby Club (Jerome) Fr. 23:30 Uhr
 - Haute Cuisine, bspw. La Baie des Singes (12:00 – 15:00, 19:00 – 21:00; nahe Calanques); Tuba Club / Restaurant 19:30
 - check Danceteria program in der Woche davor
+- Pint vs. Pilli // Dome vs. Thommy: Fr Schocken (mehr Siege: Hälfte 1x, Sieg 2x), Sa Beachball (Best of 3), So Kayak (Sprint) --> "Scorecard"
+- Beerpong
 
