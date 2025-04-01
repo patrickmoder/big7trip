@@ -40,4 +40,4 @@ Notizen
 - check Danceteria program in der Woche davor
 - Pint vs. Pilli // Dome vs. Thommy: Fr Schocken (mehr Siege: Hälfte 1x, Sieg 2x), Sa Beachball (Best of 3), So Kayak (Sprint) --> "Scorecard"
 - Beerpong
-
+- Schockbesteck
