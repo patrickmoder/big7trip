@@ -1,8 +1,6 @@
 ## Eine kleine Zeitreise...
 
-# Brüssel 2018
-
-## Beerpong, Losglück, Fietsen, Auferstehung
+# Brüssel 2018 -- Beerpong, Losglück, Fietsen, Auferstehung
 
 ![Bru_7](./images/bru_7.jpg)
 ![Bru_4](./images/bru_4.jpg)
@@ -13,22 +11,43 @@
 
 
 ---
-# Istanbul 2019
+# Istanbul 2019 -- Nackt im Morgenland und der Kater danach
 
-Kater | Kolben | Karaköy
-:---: | :---: | :---:
-<img src="./ist_1.JPG" alt="ist_1" width=300px/> | <img src="./ist_2.JPG" alt="ist_2" width=300px/> | <img src="ist_3.jpg" alt="ist_3" width=300px/>
+![Ist_5](./images/ist_5.jpg)
+![Ist_2](./images/ist_2.JPG)
+![Ist_1](./images/ist_1.JPG)
+![Ist_4](./images/ist_4.jpg)
 
-# Neapel 2023
+---
 
-# Athen 2024
+# Neapel 2023 -- Spritz, Spritz, Spritz, Götter & Amore
 
-Olympia | Bauchliebe | Abfahrt
-:---: | :---: | :---:
-<img src="./ath_1.jpg" alt="ath_1" width=300px/> | <img src="./ath_2.jpg" alt="ath_2" width=300px/> | <img src="ath_3.jpg" alt="ath_3" width=300px/>
+![Nap_7](./images/napoli_7.jpg)
+![Nap_5](./images/napoli_5.jpg)
+![Nap_2](./images/napoli_2.jpg)
+![Nap_1](./images/napoli_1.jpg)
+![Nap_8](./images/napoli_8.jpg)
+![Nap_3](./images/napoli_3.jpg)
+![Nap_4](./images/napoli_4.jpg)
+
+---
+
+# Athen 2024 -- (Bauch-)Liebe, Olympia, Abfahrt
+
+![Ath_8](./images/ath_8.jpg)
+![Ath_2](./images/ath_2.jpg)
+![Ath_4](./images/ath_4.jpg)
+![Ath_5](./images/ath_5.jpg)
+![Ath_1](./images/ath_1.jpg)
+![Ath_6](./images/ath_6.jpg)
+![Ath_7](./images/ath_7.jpg)
+
+---
 
 # ??? 2025
 
-![Big72025_Teaser](./big6_dalle.png)
+![Big72025_Teaser](./images/big6_dalle.png)
+
+---
 
 ## Bewertungen bisher:
