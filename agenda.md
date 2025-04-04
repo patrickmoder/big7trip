@@ -19,7 +19,7 @@ So
 - Croissant et Cafe au Lait (olé!) (bspw. Deep coffee roasters / Café du Commerce)
 - Transpiration et découverte du parc national des calanques: Faire équipe pour kayak à Cassis
 - Dégustation de vins à Domaine du Paternel
-- Zurück zum Apartment, dîner dans la vieille ville
+- Zurück zum Apartment, 19:30 dîner à Côté Rue (Vieux Port)
 - Schocken, Bars und Suche nach Olympia oder einer anderen Losfee
 - Wollen wir die Nacht standesgemäß durchmachen???
 
@@ -30,7 +30,7 @@ Mo
 
 To-do's:
 - ...: SportBeach buchen (15 Uhr)
-- Restaurant für So reservieren: La Mercerie, Cote de rue, Livingston
+- OK: Cote de rue So 19:30 Uhr
 - GGF reservieren: ciel Fr. 17 Uhr (zwei Wochen zuvor möglich)
 - OK: Weingut Cassis So. 17:30 Uhr
 - OK: Tetro Fr. 19 Uhr
