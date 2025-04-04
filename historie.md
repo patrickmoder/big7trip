@@ -2,10 +2,13 @@
 
 # Brüssel 2018
 
-Atomium | Fietsen | Auferstehung
-:---: | :---: | :---:
+## Beerpong, Losglück, Fietsen, Auferstehung
 
-[![Bru_3](./images/bru_3.JPG)
+![Bru_7](./images/bru_7.JPG)
+![Bru_4](./images/bru_4.JPG)
+![Bru_3](./images/bru_3.JPG)
+![Bru_6](./images/bru_6.JPG)
+![Bru_5](./images/bru_5.JPG)
 ![Bru_2](./images/bru_2.JPG)
 
 
