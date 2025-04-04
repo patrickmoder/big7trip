@@ -2,42 +2,41 @@ So sehen die Tage aus (alles kann, nichts muss)
 
 Freitag
 - 9 Uhr am Flughafen
-- Ankunft 13 Uhr, Check in, Kolben besorgen
-- Spaziergang Vieux Port (alter Hafen)
-- ciel mit Ausblick
+- Ankunft 13 Uhr, Check in, allons acheter des pistons de sécurité
+- promenade sur le vieux port
+- 17 Uhr: boissons dans le ciel (avec vue)
 - Bouillabaisse; **Tetro (Vieux-Port)**, Livingston (pop-up, Vieux-Port)
-- Bar Hopping in Le Panier
-- Tanzen & Geiern im Club (R2 Rooftop, **Baby Club**)
+- la tournée des bars à Le Panier
+- Ab 23:45 Uhr: Tanzen & Geiern im Club (Baby Club)
 
 Sa
 - Katerfrühstück; Razzia (Notre Dame du Mont)
 - Stadterkundung (Notre Dame oder Brunnen oder …)
-- (Imbiss im La Boite a Sardine (Vieux-Port))
-- Das Leben genießen im Beach Club (Sport Beach) bei gutem (?) Wetter + Losfee?
+- Optional: Imbiss im La Boite a Sardine (Vieux-Port)
+- Ab 15 Uhr: Das Leben genießen im Beach Club (Sport Beach) bei gutem Wetter + Such nach einer geeigneten Losfee?
 
 So
-- Croissant et Cafe au Lait (olé) (bspw Deep coffee roasters)
-- Rausschwitzen: Erkundung des Nationalpark Calanques (Kayak in Cassis, 13:00 - 16:30 Uhr)
-- Wine Tasting & Abendessen (17:30 - 20:00)
+- Croissant et Cafe au Lait (olé!) (bspw. Deep coffee roasters / Café du Commerce)
+- Transpiration et découverte du parc national des calanques: Faire équipe pour kayak à Cassis
+- Dégustation de vins à Domaine du Paternel
 - Zurück zum Apartment
 - Schocken, Bars und Suche nach Olympia oder einer anderen Losfee
 - Wollen wir die Nacht standesgemäß durchmachen???
 
 Mo
-- Spätes Katerfrühstück 
-- Koffer verstauen ggf
+- Spätes Katerfrühstück
 - Schlendern durch attraktive Viertel oder Markthalle
-- Ca. 15 Uhr Aufbruch zum Flughafen
+- Late check-out und ca. 15 Uhr Aufbruch zum Flughafen
 
 Notizen
 - La Mercerie (bistro, Vieux-Port)
-- P: SportBeach buchen (15 Uhr)
-- ciel Fr. 17 Uhr reservieren
-- Weingut Cassis So. 17:30 Uhr
+- SportBeach buchen (15 Uhr)
+- GGF reservieren: ciel Fr. 17 Uhr
+- OK: Weingut Cassis So. 17:30 Uhr
 - Tetro Fr. 19 Uhr
-- Baby Club (Jerome) Fr. 23:30 Uhr
+- OK: Baby Club (Jerome) Fr. 23:30 Uhr
 - Haute Cuisine, bspw. La Baie des Singes (12:00 – 15:00, 19:00 – 21:00; nahe Calanques); Tuba Club / Restaurant 19:30
-- check Danceteria program in der Woche davor
+- check Danceteria Programm in der Woche davor
 - Pint vs. Pilli // Dome vs. Thommy: Fr Schocken (mehr Siege: Hälfte 1x, Sieg 2x), Sa Beachball (Best of 3), So Kayak (Sprint) --> "Scorecard"
-- Beerpong
-- Schockbesteck
+- F: Beerpong
+- P: Schockbesteck
