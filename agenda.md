@@ -13,7 +13,7 @@ Sa
 - Katerfrühstück: Razzia (Notre Dame du Mont)
 - une agréable découverte de la ville à pied (Notre Dame ou Palais Longchamp ou…)
 - Optional: Imbiss im La Boite a Sardine (Vieux-Port)
-- Ab 15 Uhr: profiter de la vie au Sport Beach (bei gutem Wetter) + Suche nach einer geeigneten Losfee?
+- Ab 15 Uhr: profiter de la vie au Sport Beach (bei gutem Wetter) & Suche nach Sabina oder einer geeigneten Losfee
 
 So
 - Croissant et Cafe au Lait (olé!) (bspw. Deep coffee roasters / Café du Commerce)
