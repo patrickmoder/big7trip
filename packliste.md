@@ -8,6 +8,6 @@ Was unbedingt mit ins Gepäck muss:
 - Unterhosen (@Pint: Windel?)
 - Sonnenbrille!
 - Hausmittelchen gegen Aua im Kopf
-- Übt nochmal, einen Tischtennisball gezielt zu werfen -- könnte entscheidend sein
+- Übt nochmal, einen Tischtennisball gezielt zu werfen -- könnte entscheidend werden
 - Klicker?
-- Wir reisen mit Handgepäck im Flieger, bitte achtet auf die Menge der Flüssigkeiten in euren Beauty-Sets. Und bitte keine Buschmesser einpacken, Domi!
+- Wir reisen mit Handgepäck im Flieger, bitte achtet auf die Menge der Flüssigkeiten in euren Beauty-Sets.
