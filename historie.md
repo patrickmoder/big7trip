@@ -36,7 +36,6 @@
 
 ![Ath_8](./images/ath_8.JPG)
 ![Ath_2](./images/ath_2.jpg)
-<img src="./images/ath_2.jpg" alt="ath_2">
 ![Ath_4](./images/ath_4.JPG)
 ![Ath_5](./images/ath_5.JPG)
 ![Ath_1](./images/ath_1.jpg)
