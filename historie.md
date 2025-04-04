@@ -5,8 +5,8 @@
 Atomium | Fietsen | Auferstehung
 :---: | :---: | :---:
 
-[![Bru_3](./bru_3.JPG)
-![Bru_2](bru_2.JPG)
+[![Bru_3](./images/bru_3.JPG)
+![Bru_2](./images/bru_2.JPG)
 
 
 ---
