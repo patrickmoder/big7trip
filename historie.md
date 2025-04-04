@@ -6,6 +6,16 @@ Atomium | Fietsen | Auferstehung
 :---: | :---: | :---:
 <img src="./bru_1.JPG" alt="bru_1" width=300px/> | <img src="./bru_3.JPG" alt="bru_3" width=300px/> | <img src="bru_2.JPG" alt="bru_2" width=300px/>
 
+* ![Bru_1](./bru_1.JPG)
+* [![Bru_3](./bru_3.JPG)
+* ![Bru_2](bru_2.JPG)
+
+<script src="path/to/md-gallery.js"></script>
+
+<script>
+    md_gallery();
+</script>
+
 # Istanbul 2019
 
 Kater | Kolben | Karaköy
