@@ -22,25 +22,25 @@
 
 # Neapel 2023 -- Spritz, Spritz, Spritz, Götter & Amore
 
-![Nap_7](./images/napoli_7.jpg)
-![Nap_5](./images/napoli_5.jpg)
-![Nap_2](./images/napoli_2.jpg)
-![Nap_1](./images/napoli_1.jpg)
-![Nap_8](./images/napoli_8.jpg)
-![Nap_3](./images/napoli_3.jpg)
-![Nap_4](./images/napoli_4.jpg)
+![Nap_7](./images/napoli_7.JPG)
+![Nap_5](./images/napoli_5.JPG)
+![Nap_2](./images/napoli_2.JPG)
+![Nap_1](./images/napoli_1.JPG)
+![Nap_8](./images/napoli_8.JPG)
+![Nap_3](./images/napoli_3.JPG)
+![Nap_4](./images/napoli_4.JPG)
 
 ---
 
 # Athen 2024 -- (Bauch-)Liebe, Olympia, Abfahrt
 
-![Ath_8](./images/ath_8.jpg)
+![Ath_8](./images/ath_8.JPG)
 ![Ath_2](./images/ath_2.jpg)
-![Ath_4](./images/ath_4.jpg)
-![Ath_5](./images/ath_5.jpg)
+![Ath_4](./images/ath_4.JPG)
+![Ath_5](./images/ath_5.JPG)
 ![Ath_1](./images/ath_1.jpg)
-![Ath_6](./images/ath_6.jpg)
-![Ath_7](./images/ath_7.jpg)
+![Ath_6](./images/ath_6.JPG)
+![Ath_7](./images/ath_7.JPG)
 
 ---
 
