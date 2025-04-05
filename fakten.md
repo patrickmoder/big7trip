@@ -8,7 +8,7 @@
 
 (4) Eine Vielzahl kultureller Einflüsse prägte die Stadt seit ihrer Entstehung.
 
-(5) Es gibt Bars, in denen -- soweit wir informiert sind -- Bier konsumiert werden kann.
+(5) Es gibt Bars, in denen &#8212; soweit wir informiert sind &#8212; Bier konsumiert werden kann.
 
 (6) Unsere Reise wird dieses Jahr weder nach Brüssel, noch nach Istanbul, Neapel oder Athen gehen.
 
