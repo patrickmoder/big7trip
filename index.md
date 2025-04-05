@@ -56,3 +56,6 @@ Eine kleine Historie gefällig? [Hier](historie.md) geht es zu eindrucksvollen, 
 Na, neugierig? Ihr wollt wirklich wissen, wo es hingeht? Vielleicht helfen euch die [Fakten](fakten.md) über unser zukünftiges Ziel ja weiter...
 
 Hier ein paar Anhaltspunkte, was in den Koffer sollte: [Packliste](packliste.md)
+
+<!-- Was haben wir vor? Hier geht es zur [Agenda](agenda.md).  -->
+
