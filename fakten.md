@@ -10,6 +10,8 @@
 
 (5) Es gibt Bars, in denen -- soweit wir informiert sind -- Bier konsumiert werden kann.
 
-(6) Die Stadt wurde von einem Volk gegründet, welches nach heutiger Staatenordnung größtenteils in einem anderen Land beheimatet ist.
+(6) Unsere Reise wird dieses Jahr weder nach Brüssel, noch nach Istanbul, Neapel oder Athen gehen.
+
+(7) Die Stadt wurde von einem Volk gegründet, welches nach heutiger Staatenordnung größtenteils in einem anderen Land beheimatet ist.
 
 ## Wer einen Tip abgeben möchte, gerne her damit!
