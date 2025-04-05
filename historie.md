@@ -51,3 +51,5 @@
 ---
 
 ## Bewertungen bisher:
+
+![Bewertungen](./images/bewertungen.png)
