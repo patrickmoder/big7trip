@@ -59,3 +59,8 @@ Hier ein paar Anhaltspunkte, was in den Koffer sollte: [Packliste](packliste.md)
 
 <!-- Was haben wir vor? Hier geht es zur [Agenda](agenda.md).  -->
 
+<style>
+  .footer {
+    display: none;
+  }
+</style>
