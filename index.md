@@ -57,11 +57,11 @@ Na, neugierig? Ihr wollt wirklich wissen, wo es hingeht? Vielleicht helfen euch 
 
 Hier ein paar Anhaltspunkte, was in den Koffer sollte: [Packliste](packliste.md)
 
- <!-- Dieses Jahr geht’s in eine Stadt, die ein bisschen rough, ziemlich charmant und garantiert unvergesslich ist.
+  Dieses Jahr geht’s in eine Stadt, die ein bisschen rough, ziemlich charmant und garantiert unvergesslich ist.
 
 Frankreichs älteste Stadt begrüßt euch mit Meeresluft, Rooftop-Drinks, Calanque-Vibes und einem Nachtleben, das zwischen Bouillabaisse und Bass tanzt. Hier treffen Hafen auf Hipster, Pastis auf Progressivität und uralte Geschichte auf Street-Art in Le Panier.
 
-Was genau haben wir vor? Hier geht es zur [Agenda](agenda_mrs.pdf).  -->
+Was genau haben wir vor? Hier geht es zur [Agenda](agenda_mrs.pdf). 
 
 <style>
   .footer {
