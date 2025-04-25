@@ -57,7 +57,7 @@ Na, neugierig? Ihr wollt wirklich wissen, wo es hingeht? Vielleicht helfen euch 
 
 Hier ein paar Anhaltspunkte, was in den Koffer sollte: [Packliste](packliste.md)
 
- Was haben wir vor? Hier geht es zur [Agenda](agenda_mrs.pdf). <!-- <a href="https://patrickmoder.github.io/big7trip/agenda_mrs.pdf" target="_blank">PDF.</a> -->
+ <!-- Was haben wir vor? Hier geht es zur [Agenda](agenda_mrs.pdf).  -->
 
 <style>
   .footer {
